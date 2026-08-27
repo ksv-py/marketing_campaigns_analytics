@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+.venv/
+01_marketing_campaign_insights/data/marketing_campaign.xlsx
